@@ -5,7 +5,7 @@ export default defineConfig({
   sidebar: [
     {
       text: 'Home Page',
-      link: '/home-page',
+      link: '/',
     },
     {
       text: 'Other FNB Chapters',
