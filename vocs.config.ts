@@ -24,6 +24,6 @@ export default defineConfig({
           link: '/how-to-guides/how-to-make-a-site-like-this',
         }
       ]
-    }
+    },
   ],
 })
