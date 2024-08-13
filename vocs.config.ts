@@ -8,6 +8,10 @@ export default defineConfig({
       link: '/',
     },
     {
+      text: 'Frequently Asked Questions',
+      link: '/faq',
+    },
+    {
       text: 'Other FNB Chapters',
       link: '/other-fnb-chapters',
     },
