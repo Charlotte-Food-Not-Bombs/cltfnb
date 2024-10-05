@@ -11,6 +11,10 @@ export default defineConfig({
       text: 'Frequently Asked Questions',
       link: '/faq',
     },
+     {
+      text: 'Recipes',
+      link: '/recipes',
+    },
     {
       text: 'Other FNB Chapters',
       link: '/other-fnb-chapters',
